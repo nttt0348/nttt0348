@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Tien 🎓 Graduate Student | Aspiring AI & Game Developer Based in Chicago, IL, I am currently pursuing my Master of Science in Computer Science at Northeastern Illinois University.
 
-<!--
-**nttt0348/nttt0348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 4+ years of professional experience in E-commerce Operations (at companies like Shopee and TikTok), I bring a detail-oriented, analytical mindset to the world of software development. I’m passionate about merging technical logic with creative storytelling—specifically within game design and AI.
 
-Here are some ideas to get you started:
+💻 Tech & Tools Languages: Java, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concepts: Object-Oriented Programming (OOP), Algorithms, Discrete Math
+
+Tools: Git/GitHub, jGrasp
+
+🌟 My Focus & Goals Current Mission: Mastering Java and deep-diving into Graph Theory and Algorithms.
+
+Dream Goal: Working in AI for Game Development. As a lifelong fan of The Sims, I want to use technology to bring more diverse cultural representation (especially Vietnamese culture!) into the gaming world.
+
+Seeking: 2026 Summer Internships in Software Engineering or Game Dev.
+
+📊 Professional Evolution Now: Graduate Admissions Assistant @ NEIU | MSCS Candidate
+
+Before: Policy QA @ TikTok | Senior QC @ Shopee
+
+Foundation: B.B.A. in Business Administration
+
+📫 Connect with me LinkedIn: https://www.linkedin.com/in/tiennguyen2704/
+
+⚡ Fun Fact I moved to the US in early 2024 to pivot my career into Tech. When I'm not studying Java or practicing OOP concepts , you can find me playing The Sims
