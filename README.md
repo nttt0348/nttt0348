@@ -1,6 +1,4 @@
-👋 Hi, I'm Tien 🎓 Graduate Student | Aspiring AI & Game Developer Based in Chicago, IL, I am currently pursuing my Master of Science in Computer Science at Northeastern Illinois University.
-
-With 4+ years of professional experience in E-commerce Operations (at companies like Shopee and TikTok), I bring a detail-oriented, analytical mindset to the world of software development. I’m passionate about merging technical logic with creative storytelling—specifically within game design and AI.
+👋 Hi, I'm Tien 🎓 Graduate Student | Master of Science in Computer Science at Northeastern Illinois University.
 
 💻 Tech & Tools Languages: Java, Python
 
